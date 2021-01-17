@@ -1,0 +1,7 @@
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Split()\string.Split()\bin\Debug\@string.Split__.exe.config
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Split()\string.Split()\bin\Debug\@string.Split__.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Split()\string.Split()\bin\Debug\@string.Split__.pdb
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Split()\string.Split()\obj\Debug\string.Split().csprojAssemblyReference.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Split()\string.Split()\obj\Debug\string.Split().csproj.CoreCompileInputs.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Split()\string.Split()\obj\Debug\@string.Split__.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.Split()\string.Split()\obj\Debug\@string.Split__.pdb
